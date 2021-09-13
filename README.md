@@ -1,1 +1,6 @@
-# Collecting_Youtube_Data_API
+# Collecting video's data of Youtube Channel by API
+
+Base on [Working with Python APIs For Data Science Project](https://www.kdnuggets.com/2021/09/python-apis-data-science-project.html).
+
+* **Python libraries:** pandas, requests. 
+* **Data source:** Youtube API.
